@@ -5,7 +5,7 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    public float Hp = 100;
+    public float Hp = 1001;
     public float Exp = 100; 
 
     private GameManager gm;
